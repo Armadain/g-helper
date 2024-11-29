@@ -1,49 +1,6 @@
 # G-Helper - Lightweight control tool for Asus laptops
-[![United24](https://raw.githubusercontent.com/seerge/g-helper/main/docs/ua.png)](https://u24.gov.ua/)
-[![GitHub release](https://img.shields.io/github/release/seerge/g-helper)](https://GitHub.com/seerge/g-helper/releases/) 
-[![Github all releases](https://img.shields.io/github/downloads/seerge/g-helper/total)](https://GitHub.com/seerge/g-helper/releases/) [![GitHub stars](https://img.shields.io/github/stars/seerge/g-helper.svg?style=social)](https://GitHub.com/seerge/g-helper/stargazers/) <sup>[中文版点这里](https://github.com/seerge/g-helper/blob/main/docs/README.zh-CN.md)</sup> <sup>[日本語はこちら](https://github.com/seerge/g-helper/blob/main/docs/README.ja-JP.md)</sup>
 
 Small and lightweight Armoury Crate alternative for Asus laptops offering almost same functionality with a much smaller footprint. Works with all popular models, such as ROG Zephyrus G14, G15, G16, M16, Flow X13, Flow X16, Flow Z13, DUO, TUF Series, Strix or Scar Series, ProArt, Vivobook, Zenbook, ROG Ally or Ally X and many more! 
-
-# [:floppy_disk: Download](https://github.com/seerge/g-helper/releases/latest/download/GHelper.zip)
-**⭐ If you like the app - please spread the word about it online**
-
-<table>
-<tr>
-   <td><b>Support Project</b></td>
-   <td >
-      <a href="https://bit.ly/4c0ZWs9"><img src="https://raw.githubusercontent.com/seerge/g-helper/main/docs/paypal-eur.png" height="36" alt="PayPal EUR"></a>&nbsp;
-      <a href="https://bit.ly/4aGTyW8"><img src="https://raw.githubusercontent.com/seerge/g-helper/main/docs/paypal-usd.png" height="36" alt="PayPal USD"></a>&nbsp;
-      <a href="https://buy.stripe.com/8wM6pt8HbgK50tWbIK"><img src="https://raw.githubusercontent.com/seerge/g-helper/main/docs/stripe.png" height="36" alt="Stripe"></a>&nbsp;
-      <a href="https://buy.stripe.com/6oE29dg9D3Xj7Wo28b"><img src="https://raw.githubusercontent.com/seerge/g-helper/main/docs/alipay.png" height="36" alt="Alipay"></a>
-   </td>
-</tr>
-</table>
-
-- [FAQ](https://github.com/seerge/g-helper/wiki/FAQ)
-- [Setup and Requirements](https://github.com/seerge/g-helper/wiki/Requirements)
-- [Troubleshooting](https://github.com/seerge/g-helper/wiki/Troubleshooting)
-- [Power User Settings](https://github.com/seerge/g-helper/wiki/Power-user-settings)
-
-
-[![G-Helper Download](https://github.com/seerge/g-helper/assets/5920850/4d98465a-63a5-4498-ae14-afb3e67e7e82)](https://github.com/seerge/g-helper/releases/latest/download/GHelper.zip)
-
-## :loudspeaker: YouTube Reviews and Guides
-| [![Youtube review Josh Cravey](https://i.ytimg.com/vi/hqe-PjuE-K8/hqdefault.jpg)](https://www.youtube.com/watch?v=hqe-PjuE-K8) | [![Youtube review cbutters Tech](https://i.ytimg.com/vi/6aVdwJKZSSc/hqdefault.jpg)](https://www.youtube.com/watch?v=6aVdwJKZSSc) |
-| ----------------- | ---------------- | 
-| [Josh Cravey](https://www.youtube.com/watch?v=hqe-PjuE-K8) | [cbutters Tech](https://www.youtube.com/watch?v=6aVdwJKZSSc) | 
-
-## 📰 Articles
-1. https://www.digitaltrends.com/computing/g-helper-armoury-crate-alternative/
-2. https://binaryfork.com/ghelper-armoury-crate-alternative-10216/
-
-## :gift: Advantages 
-
-1. Seamless and automatic GPU switching
-2. All performance modes can be fully customized with power limits and fan curves
-3. Lightweight. Doesn't install anything in your system. Just a single exe to run
-4. Simple and clean native UI with easy access to all settings
-5. FN-Lock and custom hotkeys
 
 ![Screenshot 2024-03-11 104354](https://github.com/seerge/g-helper/assets/5920850/626a5a6e-fdae-431c-843e-92886c8420ee)
 
